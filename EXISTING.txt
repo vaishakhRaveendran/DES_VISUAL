@@ -1,0 +1,13 @@
+Supremica is a tool for the modelling and analysis of discrete-event control functions
+based on state machine models of the uncontrolled plant and specication of the desired
+closed-loop behaviour. The modelling framework in Supremica is based on nite-state machines
+extended with variables, guard conditions, and action functions. In order to handle large-scale
+problems of industrially interesting size, Supremica uses advanced model checking techniques
+such as symbolic representations and compositional abstraction. Supremica has been used in
+several industrial research projects to verify and synthesise control functions for embedded
+controllers, industrial robots, and exible manufacturing systems, and to verify program code
+for autonomous vehicles.
+============================================================================================================
+TCT is intended for supervisor synthesis of systems modeled by finite state automata. The major feature is the computation of the supremal controllable sublanguage for a given plant and specification; thus a designer can achieve maximally permissive nonblocking control.The TCT software is a free and easy-to-use computation tool for the synthesis of supervisors of discrete-event systems.It has implemented many of the basic concepts in supervisory control theory and has been found helpful in both
+teaching and research.
+============================================================================================================
